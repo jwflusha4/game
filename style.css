@@ -1,0 +1,12 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    border:1px solid black;
+    box-sizing: border-box;
+}
+canvas{
+    background:url('fma.jpg');
+    box-sizing: border-box;
+}
